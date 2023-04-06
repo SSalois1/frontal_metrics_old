@@ -4,7 +4,7 @@
 ## Overview
 
 This repository contains code for derving frontal metrics from remotely sensed sea surface temperature (SST) and chlorophyll a (CHL-A) images. 
-The goal of developing this work is to isolate prominent region-specific fronts and develop metrics to quantify frontal dynamics at various spatial and temporal scales. These metrics aim to be adaptable to different sources and resolution of satellite imagery and should generate a series of products with a range of utility at local and regional scales. 
+The goal of this work is to isolate prominent region-specific fronts and develop metrics to quantify their dynamics at various spatial and temporal scales. These metrics are adaptable to different sources and resolution of satellite imagery and should generate a series of products with a range of utility at local and regional scales. 
 
 
 
