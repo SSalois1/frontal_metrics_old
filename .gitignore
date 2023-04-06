@@ -16,7 +16,8 @@
 
 # local folders
 /data
-/shapefiles
+/results
+#/shapefiles
 
 # confidental data files
 *.csv.Rproj.user
