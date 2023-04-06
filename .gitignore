@@ -15,9 +15,10 @@
 .Rproj.user/
 
 # local folders
-/data
-/shapefiles
+#/nc_files
+#/results
+#/shape_files
 
 # confidental data files
 *.csv.Rproj.user
-*.nc
+#*.nc
